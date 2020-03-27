@@ -1,0 +1,467 @@
+position,latitude,longitude,timestamp,node_label
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 08:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-13 08:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-13 08:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-13 08:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,cloud cover
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,temperature level
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,cloud cover
+"Freiburg, Maria-von-Rudloff-Platz",47.99922,7.791445,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 12:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,cloud cover
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 12:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-14 08:00:00,cloud cover
+"Freiburg, Bertholdstraße 24",47.9951,7.8477,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Karthäuserstraße 84",47.991413,7.862785,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Bertholdstraße 24",47.9951,7.8477,2017-01-14 12:00:00,cloud cover
+"Freiburg, Karthäuserstraße 84",47.991413,7.862785,2017-01-14 17:00:00,temperature level
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-15 08:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 12:00:00,temperature level
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-15 08:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-13 08:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-14 08:00:00,temperature level
+"Freiburg, Bertholdstraße 24",47.9951,7.8477,2017-01-14 12:00:00,temperature level
+"Freiburg, Ensisheimer Str. 5",48.009834,7.824889,2017-01-15 17:00:00,cloud cover
+"Freiburg, Ensisheimer Str. 5",48.009834,7.824889,2017-01-15 17:00:00,temperature level
+"Freiburg, Ensisheimer Str. 5",48.009834,7.824889,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-16 08:00:00,cloud cover
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-16 12:00:00,shortterm precipitation
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-16 12:00:00,cloud cover
+"Freiburg, Hauptstraße 5",48.007401,7.857209,2017-01-16 17:00:00,temperature level
+"Freiburg, Hauptstraße 5",48.007401,7.857209,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Hauptstraße 5",48.007401,7.857209,2017-01-16 17:00:00,cloud cover
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-16 12:00:00,temperature level
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-16 06:00:00,temperature level
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-17 12:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-17 08:00:00,cloud cover
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-17 08:00:00,temperature level
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-17 17:00:00,cloud cover
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-17 17:00:00,shortterm precipitation
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-17 12:00:00,cloud cover
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-17 12:00:00,temperature level
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-17 17:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Maria-von-Rudloff-Platz",47.99922,7.791445,2017-01-13 12:00:00,cloud cover
+"Freiburg, Maria-von-Rudloff-Platz",47.99922,7.791445,2017-01-13 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,temperature level
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,cloud cover
+"Freiburg, Maria-von-Rudloff-Platz",47.99922,7.791445,2017-01-14 08:00:00,temperature level
+"Freiburg, Maria-von-Rudloff-Platz",47.99922,7.791445,2017-01-14 08:00:00,cloud cover
+"Freiburg, Maria-von-Rudloff-Platz",47.99922,7.791445,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 12:00:00,cloud cover
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,human well-being
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 12:00:00,temperature level
+"Freiburg, Hbf",47.997634,7.842131,2017-01-13 17:00:00,cloud cover
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Maria-von-Rudloff-Platz",47.99922,7.791445,2017-01-16 08:00:00,cloud cover
+"Freiburg, Hbf",47.997634,7.842131,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-13 17:00:00,temperature level
+"Freiburg, Hbf",47.997634,7.842131,2017-01-13 17:00:00,human well-being
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 08:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 12:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 12:00:00,temperature level
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-15 08:00:00,temperature level
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-15 08:00:00,cloud cover
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 17:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 12:00:00,cloud cover
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 17:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-16 08:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-14 17:00:00,temperature level
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-16 08:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 12:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 12:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,temperature level
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 12:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-17 08:00:00,cloud cover
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-17 17:00:00,temperature level
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-17 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 17:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 17:00:00,temperature level
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-14 08:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-14 08:00:00,cloud cover
+"Freiburg, Seepark",48.008542,7.821403,2017-01-14 17:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-15 08:00:00,temperature level
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-14 12:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-15 08:00:00,cloud cover
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,human well-being
+"Freiburg, Kapellenweg 1",47.981223,7.838509,2017-01-15 17:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-14 17:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Kapellenweg 1",47.981223,7.838509,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-16 12:00:00,shortterm precipitation
+"Freiburg, Kapellenweg 1",47.981223,7.838509,2017-01-15 17:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-16 12:00:00,human well-being
+"Freiburg, Stadttheater",47.995256,7.844967,2017-01-16 17:00:00,temperature level
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-16 12:00:00,temperature level
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-16 08:00:00,human well-being
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Stadttheater",47.995256,7.844967,2017-01-16 17:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-17 08:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-17 17:00:00,temperature level
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-17 08:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-17 17:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-13 08:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-13 08:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 08:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 08:00:00,temperature level
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-14 17:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 17:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-17 17:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 17:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-15 08:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-15 08:00:00,temperature level
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-14 17:00:00,temperature level
+"Freiburg, Bertholdsbrunnen",47.9948,7.8498,2017-01-15 12:00:00,temperature level
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Institutsviertel",48.000439,7.84924,2017-01-16 12:00:00,cloud cover
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Institutsviertel",48.000439,7.84924,2017-01-16 12:00:00,temperature level
+"Freiburg, Institutsviertel",48.000439,7.84924,2017-01-16 12:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,cloud cover
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-15 17:00:00,temperature level
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,human well-being
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-17 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,cloud cover
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 08:00:00,temperature level
+"Freiburg, Mensa Institutsviertel",48.002525,7.848597,2017-01-16 12:00:00,cloud cover
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 17:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 12:00:00,cloud cover
+"Freiburg, Mensa Institutsviertel",48.002525,7.848597,2017-01-16 12:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 17:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,temperature level
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-14 08:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-14 08:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-14 12:00:00,temperature level
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-13 17:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Agnesenstraße 1-3",48.000273,7.840599,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-14 12:00:00,cloud cover
+"Freiburg, Agnesenstraße 1-3",48.000273,7.840599,2017-01-14 17:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-15 12:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,temperature level
+"Freiburg, Agnesenstraße 1-3",48.000273,7.840599,2017-01-14 17:00:00,temperature level
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-15 12:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 08:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 08:00:00,temperature level
+"Freiburg, Agnesenstraße 1-3",48.000273,7.840599,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-16 12:00:00,shortterm precipitation
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-16 12:00:00,temperature level
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-16 12:00:00,cloud cover
+"Freiburg, Agnesenstraße 1-3",48.000273,7.840599,2017-01-16 17:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 08:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 08:00:00,cloud cover
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-17 12:00:00,temperature level
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-17 12:00:00,cloud cover
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-17 12:00:00,shortterm precipitation
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-17 17:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-17 17:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 17:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 17:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-16 12:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-16 12:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 08:00:00,cloud cover
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 08:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 17:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 12:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 08:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 17:00:00,shortterm precipitation
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-17 12:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 17:00:00,temperature level
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-17 12:00:00,cloud cover
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-17 12:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 08:00:00,cloud cover
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 08:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Seepark",48.008542,7.821403,2017-01-13 08:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Seepark",48.008542,7.821403,2017-01-13 08:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 17:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Merzhauser Straße",47.979378,7.831468,2017-01-14 12:00:00,cloud cover
+"Freiburg, Merzhauser Straße",47.979378,7.831468,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Merzhauser Straße",47.979378,7.831468,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,cloud cover
+"Freiburg, Merzhauser Straße",47.979378,7.831468,2017-01-14 12:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 17:00:00,cloud cover
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Merzhauser Straße",47.979378,7.831468,2017-01-14 17:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,temperature level
+"Freiburg, Merzhauser Straße",47.979378,7.831468,2017-01-14 17:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 17:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,temperature level
+"Freiburg, Johanneskirche",47.98892,7.846845,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 17:00:00,cloud cover
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 17:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Johanneskirche",47.98892,7.846845,2017-01-14 08:00:00,cloud cover
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 17:00:00,cloud cover
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 12:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-13 17:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-13 08:00:00,temperature level
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 08:00:00,temperature level
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 08:00:00,shortterm precipitation
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-13 17:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 12:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,temperature level
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 17:00:00,temperature level
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-15 17:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-15 17:00:00,temperature level
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-16 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,temperature level
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 12:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-16 08:00:00,temperature level
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-16 17:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-17 08:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-17 08:00:00,temperature level
+"Freiburg, Bertholdsbrunnen",47.9948,7.8498,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-16 17:00:00,temperature level
+"Freiburg, Bertholdsbrunnen",47.9948,7.8498,2017-01-13 17:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-14 12:00:00,temperature level
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,shortterm precipitation
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,temperature level
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-14 17:00:00,temperature level
+"Freiburg, Sundgauallee 46",48.0084,7.8167,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-15 08:00:00,temperature level
+"Freiburg, Sundgauallee 46",48.0084,7.8167,2017-01-15 12:00:00,temperature level
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-15 17:00:00,temperature level
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-16 08:00:00,temperature level
+"Freiburg, Mensa Institutsviertel",48.002525,7.848597,2017-01-16 12:00:00,temperature level
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Rathaus",47.996084,7.849214,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-17 08:00:00,temperature level
+"Freiburg, Mensa Institutsviertel",48.002525,7.848597,2017-01-17 12:00:00,shortterm precipitation
+"Freiburg, Mensa Institutsviertel",48.002525,7.848597,2017-01-17 12:00:00,cloud cover
+"Freiburg, Rathaus",47.996084,7.849214,2017-01-16 17:00:00,temperature level
+"Freiburg, Schlossberg",47.994214,7.859451,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Schlossberg",47.994214,7.859451,2017-01-15 12:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-15 17:00:00,cloud cover
+"Freiburg, Vauban",47.976005,7.824701,2017-01-16 08:00:00,temperature level
+"Freiburg, Bertholdsbrunnen",47.9948,7.8498,2017-01-16 12:00:00,temperature level
+"Freiburg, Bertholdsbrunnen",47.9948,7.8498,2017-01-16 12:00:00,cloud cover
+"Freiburg, Mensa Institutsviertel",48.002525,7.848597,2017-01-17 17:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-16 17:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-16 17:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-17 08:00:00,cloud cover
+"Freiburg, Vauban",47.976005,7.824701,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-17 08:00:00,temperature level
+"Freiburg, Mensa Institutsviertel",48.002525,7.848597,2017-01-17 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-13 17:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,human well-being
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 08:00:00,temperature level
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 08:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 12:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 12:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 12:00:00,temperature level
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 17:00:00,temperature level
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-13 17:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 08:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-13 08:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 12:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 08:00:00,temperature level
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-14 17:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 08:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 17:00:00,temperature level
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-16 08:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 12:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 12:00:00,temperature level
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-16 08:00:00,cloud cover
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-16 08:00:00,temperature level
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 17:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 12:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 17:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 17:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 08:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 08:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 08:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,cloud cover
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,temperature level
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-16 12:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-15 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-17 17:00:00,shortterm precipitation
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-14 08:00:00,human well-being
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-17 17:00:00,cloud cover
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,human well-being
+"Freiburg, Sundgauallee 30",48.007353,7.818589,2017-01-17 17:00:00,temperature level
+"Freiburg, Ensisheimer Str. 5",48.009834,7.824889,2017-01-15 17:00:00,human well-being
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-15 08:00:00,human well-being
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-16 08:00:00,human well-being
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-16 12:00:00,human well-being
+"Freiburg, Engelbergerstraße 21",47.996338,7.836691,2017-01-17 12:00:00,human well-being
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-17 08:00:00,human well-being
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 12:00:00,human well-being
+"Freiburg, Karthäuserstraße 84",47.991413,7.862785,2017-01-14 17:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-14 08:00:00,human well-being
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-13 17:00:00,human well-being
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-15 12:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,human well-being
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-17 17:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-13 08:00:00,human well-being
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-16 12:00:00,human well-being
+"Freiburg, Agnesenstraße 1-3",48.000273,7.840599,2017-01-16 17:00:00,human well-being
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-17 12:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 08:00:00,human well-being
+"Freiburg, Platz der Universität 2",47.99462,7.844763,2017-01-17 17:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 08:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-17 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 17:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-15 12:00:00,human well-being
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-15 08:00:00,human well-being
+"Freiburg, Okenstraße",48.010424,7.858387,2017-01-16 17:00:00,human well-being
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 17:00:00,human well-being
+"Freiburg, Tennenbacher Straße",48.004898,7.849588,2017-01-16 12:00:00,human well-being
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-15 12:00:00,human well-being
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-16 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,human well-being
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-14 08:00:00,human well-being
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-17 08:00:00,human well-being
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 17:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-14 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,human well-being
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,temperature level
+"Freiburg, Kapellenweg 1",47.981223,7.838509,2017-01-15 17:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-16 12:00:00,cloud cover
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-16 08:00:00,temperature level
+"Freiburg, Stadttheater",47.995256,7.844967,2017-01-16 17:00:00,shortterm precipitation
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-17 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 08:00:00,human well-being
+"Freiburg, Johanneskirche",47.98892,7.846845,2017-01-14 08:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 17:00:00,human well-being
+"Freiburg, Schlossberg",47.994214,7.859451,2017-01-15 12:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 17:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-15 08:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-15 17:00:00,human well-being
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-14 12:00:00,human well-being
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-17 17:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-16 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-17 12:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-16 17:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-13 17:00:00,human well-being
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 08:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 12:00:00,human well-being
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 12:00:00,human well-being
+"Freiburg, Seepark",48.008542,7.821403,2017-01-15 12:00:00,human well-being
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-16 08:00:00,cloud cover
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-14 17:00:00,human well-being
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-16 17:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 08:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-13 12:00:00,human well-being
+"Freiburg, Herderbau",48.003428,7.853443,2017-01-13 17:00:00,shortterm precipitation
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 08:00:00,temperature level
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 12:00:00,human well-being
+"Freiburg, Vauban",47.976005,7.824701,2017-01-14 17:00:00,shortterm precipitation
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-13 08:00:00,human well-being
+"Freiburg, Tullastrasse",48.025429,7.847819,2017-01-17 08:00:00,human well-being
+"Freiburg, Bertholdsbrunnen",47.9948,7.8498,2017-01-16 12:00:00,human well-being
+"Freiburg, Hbf",47.997634,7.842131,2017-01-13 17:00:00,temperature level
+"Freiburg, Barbarastraße 8",48.003732,7.839775,2017-01-13 08:00:00,temperature level
+"Freiburg, Sundgauallee 46",48.0084,7.8167,2017-01-15 12:00:00,human well-being
+"Freiburg, Bertholdsbrunnen",47.9948,7.8498,2017-01-13 17:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-15 17:00:00,human well-being
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-15 17:00:00,human well-being
+"Freiburg, Am Bischofskreuz",48.006922,7.818258,2017-01-14 12:00:00,human well-being
+"Freiburg, Universitätsbibliothek",47.994239,7.84543,2017-01-16 17:00:00,temperature level
+"Freiburg, Engelbergerstrasse 41",47.997213,7.833161,2017-01-17 08:00:00,cloud cover
+"Freiburg, Rathaus",47.996084,7.849214,2017-01-16 17:00:00,human well-being
+"Freiburg, Sundgauallee 28",48.007392,7.81941,2017-01-13 08:00:00,human well-being
+"Freiburg, Eschholzstraße",47.993785,7.832656,2017-01-16 08:00:00,human well-being
